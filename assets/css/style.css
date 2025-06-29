@@ -1300,9 +1300,9 @@ form .button-area {
 
     .experience .container::before {
         left: 60px;
-        border: medium solid #f68c09;
+        border: medium solid #0A192F;
         border-width: 10px 10px 10px 0;
-        border-color: transparent #f68c09 transparent transparent;
+        border-color: transparent #0A192F transparent transparent;
     }
 
     .experience .left::after {
